@@ -1,6 +1,10 @@
 {
-    "Name": "Semantic Encoding Model",
+    "Name": "ds004590",
     "BIDSVersion": "1.2.0",
     "License": "CC0",
-    "Authors": ["Yingying Wang", "Hongmi Lee", "Brice Kuhl"]
+    "Authors": [
+        "Yingying Wang",
+        "Hongmi Lee",
+        "Brice Kuhl"
+    ]
 }
